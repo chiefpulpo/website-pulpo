@@ -1,0 +1,261 @@
+
+de:
+
+
+  index:
+
+    pricing:
+
+      headline: Pulpo WMS beginnt ab € 150 / Monat 
+
+      element1:
+
+        text1: Alle zukünftigen Entwicklungen ohne zusätzlichen Kosten
+
+        text2: Security Backups (1 pro Tag für 1 Woche, 1 von jeder Woche für 1 Monat, 1 von jedem Monat)
+
+        text3: Gesichertes Hosting in AWS
+
+        text4: API Nutzung ohne Limit mit Dritt-Systemen wie ERP, Online Shop, B2B, etc
+
+    business_case:
+
+      pre_headline: 'WEITERE VORTEILE & FUNKTIONEN'
+
+      bussinnes1: 'Erzeuge manuelle und zyklische Inventur-Aufgaben um die Lagerpräzision sicherzustellen'
+
+      bussinnes2: 'Stelle die Effizienz und Effektivität der Mitarbeiter sicher mit unserem Statistik-Modul'
+
+      bussinnes3: 'Spar Zeit mit schnell rotierenden Produkten durch die Cross-Docking Funktion'
+
+      bussinnes4: 'Als 3PL, biete deinen Kunden eigene Benutzer an, mit denen Sie ihr Inventar kontrollieren oder Aufträge erstellen können'
+
+      bussinnes5: 'Stell sicher, dass keine Produkte ihr Haltbarkeitsdatum überschreiten'
+
+      bussinnes6: 'Nutze Pulpo's offene Schnitstelle (API) und verbinde leicht andere Systeme wie ERP, B2B, CRM oder Online Shop'
+
+    core:
+
+      headline: Wie PULPO WMS deiner Firma hilft
+
+      element1:
+
+        headline: Bis zu 50% niedrigere Operations-Kosten
+
+        text: Verbessere grundlegend deine Intra-Logistik-Prozesse und optimiere die Personalauslastung mit einem intelligenten Warehouse Management System (WMS)
+
+      element2:
+
+        headline: Bis zu 99,9% weniger Fehler
+
+        text: Durch intelligente Prozesse und eine intuitive Oberfläche ist es mit Pulpo WMS fast unmöglich Fehler beim Empfang, der Lagerung und dem Versand zu erzeugen
+
+      element3:
+
+        headline: Bis zu 3x schnelleres Picking
+
+        text: Optimierte Routen, intelligente Verteilung der Aufgaben und einfache Bedienung können zu enormen Verbesserungen in der Operation führen
+
+      element4:
+
+        headline: 2+ Wochen Anbindung
+
+        text: Fang schnell an zu sparen. Gute vorbereitete Kunden können bereits nach 2 Wochen anfangen mit Pulpo ihr Lager zu optimieren.
+
+    header:
+
+      headline: PULPO WMS
+
+      text1: PULPO Warehouse Management System bietet volle Kontrolle und Optimierung deiner Lagerprozesse. Automatisiere ehemals manuelle Prozesse, eliminiere Fehler, verbinde all deine Systeme und stelle einen bestmögliche Effizienz sicher um Geld und Zeit zu sparen.
+
+    things:
+
+      headline: PULPO WMS Haupt-Funktionen
+
+      item1: '**WARENEINGANG**: Dein Mitarbeiter sieht auf seiner App welche Produkte zu welcher Zeit und von wem geliefert werden. Somit kann beim Eintreffen der Ware schnell die Qualität und Anzahl kontrolliert, und die Produkte empfangen, oder wieder zurück gesandt werden.'
+
+      item2: '**EINLAGERUNG**: Basierend auf deinen Regeln erzeugt Pulo WMS automatisch Lagerbewegungen um sicherzustellen, dass die Produkte in der für sie optimalen Position gelagert werden. Anzahl der Regeln sind keine Grenzen gesetzt: Produktrotation, Gewicht, Gefahrenklassen, etc.'
+
+      item3: '**PICKING**: Optimierte Routen, intelligente Verteilung der Aufgaben und einfache Bedienung der Android App stellen sicher, dass die Lagermitarbeiter mit höchstmöglicher Effizienz arbeiten können.'
+
+      item4: '**PACKING**: Pulpo WMS Pack-Prozess stellt sicher, dass 1) die richtigen Produkte an den richtigen Kunden gesandt und 2) alle Pakete mit den korrekten Etiketten versehen werden.'
+
+      item5: '**VERSAND**: Pulpo WMS stellt sicher, dass die Pakete in den für den Transport optimalen Positionen zur Verfügunge gestellt werden. Pulpo WMS kann natürlich auch das Transport Management System (TMS) mit entsprechender Information versorgen.'
+
+      item6: '**NACHSCHUB**: Basierend auf leicht zu definierenden Regeln kann Pulpo WMS sicherstellen, dass weitere Lager, Geschäfte oder auch spezielle Positionen im Lager stehts die benötigte Menge an Produkten zur Verfügung stehen.'
+
+    whitepaper:
+
+      button: Kontakt
+
+      headline1: Pulpo WMS hilft deiner Firma schneller und effizienter
+
+      headline2: 'zu operieren, kontaktiere uns für einen kostenlose Beratung'
+
+  factoring:
+
+    functionalities:
+
+      headline: 'Schlüsselfunktionalitäten von Pulpo WMS'
+
+      Opt1: 'Position control inside of warehouse'
+
+      Opt2: 'Purchase Orders and Warehouse'
+
+      Opt3: 'Control and Packaging'
+
+      Opt4: 'Barcodes and QR Codes'
+
+      Opt5: 'Send-Backs /Returns'
+
+      Opt6: 'Inventory Management'
+
+      Opt7: 'Optimization based on product rotation'
+
+      Opt8: 'Serial Numbers, Batches & Expiration Dates'
+
+      Opt9: 'Quality Control'
+
+      Opt_1: 'Replenishment (internal and external)'
+
+      Opt_2: 'Personalization of Categories'
+
+      Opt_3: 'Demand Management'
+
+      Opt_4: 'Cross-Docking'
+
+      Opt_5: 'KPI Reports'
+
+      Opt_6: 'Label Printing'
+
+      Opt_7: '3PL functionality'
+
+      Opt_8: 'Dispatch Management'
+
+      Opt_9: 'Control of Efficiency and Effectiveness'
+
+    documentation:
+
+      headline: PLEASE DOWNLOAD OUR BROCHURE FOR MORE INFORMATION
+
+      button1: PULPO WMS BROCHURE
+
+    header:
+
+      headline: 4 KEY REASONS FOR PULPO 
+
+      text1: |
+
+        1) Intuitive and user-friendly usage
+
+      text2: |
+
+        2) Lighting fast implementation and well-defined API
+
+      text3: |
+
+        3) Administration without writing one line of code
+
+      text4: |
+
+        4) One of the fastest Return-of-Invest of any WMS
+
+      
+
+    process:
+
+      headline: THE USUAL PROCESS OF WAREHOUSING
+
+    roadmap:
+
+      headline: A TYPICAL IMPLEMENTATION OF PULPO WMS
+
+      step1:
+
+        headline: STEP 1
+
+        text: |
+
+          - Create Warehouse in Pulpo WMS
+
+          - Connect third party system(e.g.ERP, Online Shop)
+
+      step2:
+
+        headline: STEP 2
+
+        text: |
+
+          - Upload Products into PulpoWMS
+
+          - Ensure syncronization to third party system
+
+      step3:
+
+        headline: STEP 3
+
+        text: |
+
+          - Adding User roles and profiles
+
+          - Define Warehousing Rules for your products
+
+      step4:
+
+        headline: STEP 4
+
+        text: |
+
+          - Test all processes live in your warehouse
+
+          - Train your staff for a smooth Go-Live
+
+      step5:
+
+        headline: STEP 5
+
+        text: |
+
+          - Do a full inventory to ensure Data Quality in Pulpo WMS
+
+          - Start saving time & money running Pulpo WMS
+
+    steps:
+
+      step1: 'Check quality & quantity of incoming goods'
+
+      step2: 'PULPO WMS suggests positions for your goods'
+
+      step3: 'Optimized routes, batch picking & split picking'
+
+      step4: 'Double-check, re-packaging & label printing'
+
+      step5: 'Control quantity and quality before dispatch'
+
+  footer:
+
+    abuse: Report abuse
+
+    social: Connect with us
+
+  navigation:
+
+    abts: ABTs
+
+    faq: FAQ
+
+    contact: CONTACT
+
+    home: HOME
+
+    productDetail: PRODUCT DETAILS
+
+  path:
+
+    contact: "/contact"
+
+    home: "/"
+
+    productDetail: "/productDetail"
+
+  
