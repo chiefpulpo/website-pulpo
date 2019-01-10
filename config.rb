@@ -43,13 +43,6 @@ helpers do
   def default_locale
     @@default_locale ||= :en
   end
-  def local_path(path, options={})
-    lang = "/#{options[:locale]}"
-    if(options[:locale] == "en")
-      lang = ""
-    end
-    url_for options[:locale]
-  end
 end
 
 configure :build do
