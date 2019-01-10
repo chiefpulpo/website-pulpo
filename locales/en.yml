@@ -124,7 +124,7 @@
     home: HOME
     productDetail: PRODUCT DETAILS
   path:
-    contact: "/contact"
-    home: "/"
-    productDetail: "/productDetail"
+    contact: "/en/contact"
+    home: "/en"
+    productDetail: "/en/productDetail"
   
