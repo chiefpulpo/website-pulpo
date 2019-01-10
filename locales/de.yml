@@ -78,7 +78,7 @@ de:
 
       item3: '**PICKING**: Optimierte Routen, intelligente Verteilung der Aufgaben und einfache Bedienung der Android App stellen sicher, dass die Lagermitarbeiter mit höchstmöglicher Effizienz arbeiten können.'
 
-      item4: '**PACKING**: Pulpo WMS Pack-Prozess stellt sicher, dass 1) die richtigen Produkte an den richtigen Kunden gesandt und 2) alle Pakete mit den korrekten Etiketten versehen werden.'
+      item4: '**PACKEN**: Pulpo WMS Pack-Prozess stellt sicher, dass 1) die richtigen Produkte an den richtigen Kunden gesandt und 2) alle Pakete mit den korrekten Etiketten versehen werden.'
 
       item5: '**VERSAND**: Pulpo WMS stellt sicher, dass die Pakete in den für den Transport optimalen Positionen zur Verfügunge gestellt werden. Pulpo WMS kann natürlich auch das Transport Management System (TMS) mit entsprechender Information versorgen.'
 
@@ -98,145 +98,145 @@ de:
 
       headline: 'Schlüsselfunktionalitäten von Pulpo WMS'
 
-      Opt1: 'Position control inside of warehouse'
+      Opt1: 'Info & Kontrolle über alle Positionen im Lager'
 
-      Opt2: 'Purchase Orders and Warehouse'
+      Opt2: 'Auftragsmanagement und Inventar-Reservierung'
 
-      Opt3: 'Control and Packaging'
+      Opt3: 'Packen & Qualitätskontrolle'
 
-      Opt4: 'Barcodes and QR Codes'
+      Opt4: 'Barcodes und QR Codes'
 
-      Opt5: 'Send-Backs /Returns'
+      Opt5: 'Retouren-Management'
 
-      Opt6: 'Inventory Management'
+      Opt6: 'Inventur Management'
 
-      Opt7: 'Optimization based on product rotation'
+      Opt7: 'Optimiesierung basierend auf Rotation'
 
-      Opt8: 'Serial Numbers, Batches & Expiration Dates'
+      Opt8: 'Seriennummern, Produktionschargen & Ablaufdatum'
 
-      Opt9: 'Quality Control'
+      Opt9: 'Qualitätskontrolle'
 
-      Opt_1: 'Replenishment (internal and external)'
+      Opt_1: 'Nachschub (intern und extern)'
 
-      Opt_2: 'Personalization of Categories'
+      Opt_2: 'Personalisierung von Produkt-Kategorien'
 
-      Opt_3: 'Demand Management'
+      Opt_3: 'Nachfragemanagement'
 
       Opt_4: 'Cross-Docking'
 
-      Opt_5: 'KPI Reports'
+      Opt_5: 'KPI Reporte'
 
-      Opt_6: 'Label Printing'
+      Opt_6: 'Etikettendruck'
 
-      Opt_7: '3PL functionality'
+      Opt_7: '3PL Funktionalität'
 
-      Opt_8: 'Dispatch Management'
+      Opt_8: 'Versandverwaltung'
 
-      Opt_9: 'Control of Efficiency and Effectiveness'
+      Opt_9: 'Kontrolle von Effizienz und Effektivitt'
 
     documentation:
 
-      headline: PLEASE DOWNLOAD OUR BROCHURE FOR MORE INFORMATION
+      headline: HIER GEHTS ZUM DOWNLOAD DER BROCHURE
 
       button1: PULPO WMS BROCHURE
 
     header:
 
-      headline: 4 KEY REASONS FOR PULPO 
+      headline: 4 wichtige Gründe für Pulpo WMS
 
       text1: |
 
-        1) Intuitive and user-friendly usage
+        1) Intuitive und benutzerfreundliche Nutzung
 
       text2: |
 
-        2) Lighting fast implementation and well-defined API
+        2) Blitzschnelle Implementierung dank wohldefinierter API
 
       text3: |
 
-        3) Administration without writing one line of code
+        3) Administrierung ohne eine Zeile Code zu schreiben
 
       text4: |
 
-        4) One of the fastest Return-of-Invest of any WMS
+        4) Das WMS mit einem der schnellsten Return-of-Invests
 
       
 
     process:
 
-      headline: THE USUAL PROCESS OF WAREHOUSING
+      headline: TYPISCHE LAGER-PROZESSE
 
     roadmap:
 
-      headline: A TYPICAL IMPLEMENTATION OF PULPO WMS
+      headline: EINE TYPISCHE PULPO WMS EINFÜHRUNG
 
       step1:
 
-        headline: STEP 1
+        headline: Schritt 1
 
         text: |
 
-          - Create Warehouse in Pulpo WMS
+          - Kreation des Lagers in Pulpo WMS
 
-          - Connect third party system(e.g.ERP, Online Shop)
+          - Anbindung von Dritt-Systemen (e.g.ERP, CRM, B2B, Online Shop)
 
       step2:
 
-        headline: STEP 2
+        headline: Schritt 2
 
         text: |
 
-          - Upload Products into PulpoWMS
+          - Upload der Produkte in PulpoWMS
 
-          - Ensure syncronization to third party system
+          - Sicherstellung der Synchronisierung mit Dritt-Systemen
 
       step3:
 
-        headline: STEP 3
+        headline: Schritt 3
 
         text: |
 
-          - Adding User roles and profiles
+          - Erzeugung von Benutzerrollen und Profilen
 
-          - Define Warehousing Rules for your products
+          - Definierung der Lagerregeln für die Produkte
 
       step4:
 
-        headline: STEP 4
+        headline: Schritt 4
 
         text: |
 
-          - Test all processes live in your warehouse
+          - Testen aller Prozesse im Lager
 
-          - Train your staff for a smooth Go-Live
+          - Training der Mitarbeiter für einen perfekten Go-Live
 
       step5:
 
-        headline: STEP 5
+        headline: Schritt 5
 
         text: |
 
-          - Do a full inventory to ensure Data Quality in Pulpo WMS
-
-          - Start saving time & money running Pulpo WMS
+          - Durchführung einer Inventur zur Sicherstellung der Datenqualität
+          
+          - Beginn Geld und Zeit zu sparen mit Pulpo WMS
 
     steps:
 
-      step1: 'Check quality & quantity of incoming goods'
+      step1: 'Qualitäts- und Quantitätskontrolle beim Empfang'
 
-      step2: 'PULPO WMS suggests positions for your goods'
+      step2: 'Pulpo WMS empfiehlt optimale Positionen für die Lagerung'
 
-      step3: 'Optimized routes, batch picking & split picking'
+      step3: 'Optimisierte routen, Batch und Split-Picking'
 
-      step4: 'Double-check, re-packaging & label printing'
+      step4: 'Kontrolle im Packen, Neu-Verpackung und Etikettierung'
 
-      step5: 'Control quantity and quality before dispatch'
+      step5: 'Quantitäts- und Qualitätskontrolle vor dem Versand'
 
   footer:
 
     abuse: Report abuse
 
-    social: Connect with us
+    social: Kontakt
 
   navigation:
 
@@ -244,11 +244,11 @@ de:
 
     faq: FAQ
 
-    contact: CONTACT
+    contact: KONTAKT
 
     home: HOME
 
-    productDetail: PRODUCT DETAILS
+    productDetail: PRODUKT DETAILS
 
   path:
 
