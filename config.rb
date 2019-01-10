@@ -40,7 +40,7 @@ helpers do
     return File.read(file_path) if File.exists?(file_path)
     '(not found)'
   end
-  def default_locale = :en
+  
   def local_path(path, options={})
     lang = "/#{options[:locale]}"
     if(options[:locale] == "en")
@@ -49,7 +49,8 @@ helpers do
     url_for options[:locale]
   end
 end
-
+# Set default locale to something other than :en
+I18n.default_locale = :en
 configure :build do
   activate :minify_css
   activate :minify_javascript
