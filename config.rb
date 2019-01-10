@@ -40,7 +40,7 @@ helpers do
     return File.read(file_path) if File.exists?(file_path)
     '(not found)'
   end
-
+  def default_locale = :en
   def local_path(path, options={})
     lang = "/#{options[:locale]}"
     if(options[:locale] == "en")
