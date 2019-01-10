@@ -6,17 +6,17 @@ de:
 
     pricing:
 
-      headline: Pulpo WMS beginnt ab € 150 / Monat 
+      headline: 'Pulpo WMS beginnt ab € 150 / Monat '
 
       element1:
 
-        text1: Alle zukünftigen Entwicklungen ohne zusätzlichen Kosten
+        text1: 'Alle zukünftigen Entwicklungen ohne zusätzlichen Kosten'
 
-        text2: Security Backups (1 pro Tag für 1 Woche, 1 von jeder Woche für 1 Monat, 1 von jedem Monat)
+        text2: 'Security Backups (1 pro Tag für 1 Woche, 1 von jeder Woche für 1 Monat, 1 von jedem Monat)'
 
-        text3: Gesichertes Hosting in AWS
+        text3: 'Gesichertes Hosting in AWS'
 
-        text4: API Nutzung ohne Limit mit Dritt-Systemen wie ERP, Online Shop, B2B, etc
+        text4: 'API Nutzung ohne Limit mit Dritt-Systemen wie ERP, Online Shop, B2B, etc'
 
     business_case:
 
@@ -32,7 +32,7 @@ de:
 
       bussinnes5: 'Stell sicher, dass keine Produkte ihr Haltbarkeitsdatum überschreiten'
 
-      bussinnes6: 'Nutze Pulpo's offene Schnitstelle (API) und verbinde leicht andere Systeme wie ERP, B2B, CRM oder Online Shop'
+      bussinnes6: 'Nutze Pulpo offene Schnitstelle (API) und verbinde leicht andere Systeme wie ERP, B2B, CRM oder Online Shop'
 
     core:
 
@@ -40,33 +40,33 @@ de:
 
       element1:
 
-        headline: Bis zu 50% niedrigere Operations-Kosten
+        headline: 'Bis zu 50% niedrigere Operations-Kosten'
 
-        text: Verbessere grundlegend deine Intra-Logistik-Prozesse und optimiere die Personalauslastung mit einem intelligenten Warehouse Management System (WMS)
+        text: 'Verbessere grundlegend deine Intra-Logistik-Prozesse und optimiere die Personalauslastung mit einem intelligenten Warehouse Management System (WMS)'
 
       element2:
 
-        headline: Bis zu 99,9% weniger Fehler
+        headline: 'Bis zu 99,9% weniger Fehler'
 
-        text: Durch intelligente Prozesse und eine intuitive Oberfläche ist es mit Pulpo WMS fast unmöglich Fehler beim Empfang, der Lagerung und dem Versand zu erzeugen
+        text: 'Durch intelligente Prozesse und eine intuitive Oberfläche ist es mit Pulpo WMS fast unmöglich Fehler beim Empfang, der Lagerung und dem Versand zu erzeugen'
 
       element3:
 
-        headline: Bis zu 3x schnelleres Picking
+        headline: 'Bis zu 3x schnelleres Picking'
 
-        text: Optimierte Routen, intelligente Verteilung der Aufgaben und einfache Bedienung können zu enormen Verbesserungen in der Operation führen
+        text: 'Optimierte Routen, intelligente Verteilung der Aufgaben und einfache Bedienung können zu enormen Verbesserungen in der Operation führen'
 
       element4:
 
-        headline: 2+ Wochen Anbindung
+        headline: '2+ Wochen Anbindung'
 
-        text: Fang schnell an zu sparen. Gute vorbereitete Kunden können bereits nach 2 Wochen anfangen mit Pulpo ihr Lager zu optimieren.
+        text: 'Fang schnell an zu sparen. Gute vorbereitete Kunden können bereits nach 2 Wochen anfangen mit Pulpo ihr Lager zu optimieren.'
 
     header:
 
       headline: PULPO WMS
 
-      text1: PULPO Warehouse Management System bietet volle Kontrolle und Optimierung deiner Lagerprozesse. Automatisiere ehemals manuelle Prozesse, eliminiere Fehler, verbinde all deine Systeme und stelle einen bestmögliche Effizienz sicher um Geld und Zeit zu sparen.
+      text1: 'PULPO Warehouse Management System bietet volle Kontrolle und Optimierung deiner Lagerprozesse. Automatisiere ehemals manuelle Prozesse, eliminiere Fehler, verbinde all deine Systeme und stelle einen bestmögliche Effizienz sicher um Geld und Zeit zu sparen.'
 
     things:
 
@@ -142,7 +142,7 @@ de:
 
     header:
 
-      headline: 4 wichtige Gründe für Pulpo WMS
+      headline: '4 wichtige Gründe für Pulpo WMS'
 
       text1: |
 
@@ -168,7 +168,7 @@ de:
 
     roadmap:
 
-      headline: EINE TYPISCHE PULPO WMS EINFÜHRUNG
+      headline: 'EINE TYPISCHE PULPO WMS EINFÜHRUNG'
 
       step1:
 
