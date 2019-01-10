@@ -32,15 +32,15 @@ page '/*.txt', layout: false
 #     which_fake_page: 'Rendering a fake page with a local variable'
 #   },
 # )
-
+# Set default locale to something other than :en
+I18n.default_locale = :en
 helpers do
   def svg_tag(name)
     root = Middleman::Application.root
     file_path = "#{root}/source/images/#{name}.svg"
     return File.read(file_path) if File.exists?(file_path)
     '(not found)'
-  end
-  
+  end  
   def local_path(path, options={})
     lang = "/#{options[:locale]}"
     if(options[:locale] == "en")
@@ -49,8 +49,7 @@ helpers do
     url_for options[:locale]
   end
 end
-# Set default locale to something other than :en
-I18n.default_locale = :en
+
 configure :build do
   activate :minify_css
   activate :minify_javascript
