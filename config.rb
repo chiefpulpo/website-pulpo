@@ -43,7 +43,7 @@ helpers do
 
   def local_path(path, options={})
     lang = "/#{options[:locale]}"
-    if(options[:locale] == "de")
+    if(options[:locale] == "en")
       lang = ""
     end
     url_for options[:locale]
