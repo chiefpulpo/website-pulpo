@@ -41,12 +41,12 @@ helpers do
   end  
   # Returns the current default locale. Defaults to :'en'
   def default_locale
-    @@default_locale ||= :en
+    @default_locale ||= :en
   end
   # Sets the current default locale. Used to set a custom default locale.
   def default_locale=(locale)
     I18n.enforce_available_locales!(locale)
-    @@default_locale = locale && locale.to_sym
+    @default_locale = locale && locale.to_sym
   end
 end
 
