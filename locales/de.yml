@@ -14,7 +14,7 @@ de:
       bussinnes3: 'Spar Zeit mit schnell rotierenden Produkten durch die Cross-Docking Funktion'
       bussinnes4: 'Als 3PL, biete deinen Kunden eigene Benutzer an, mit denen Sie ihr Inventar kontrollieren oder Aufträge erstellen können'
       bussinnes5: 'Stell sicher, dass keine Produkte ihr Haltbarkeitsdatum überschreiten'
-      bussinnes6: 'Nutze Pulpo offene Schnitstelle (API) und verbinde leicht andere Systeme wie ERP, B2B, CRM oder Online Shop'
+      bussinnes6: 'Nutze Pulpos offene Schnitstelle (API) und verbinde leicht andere Systeme wie ERP, B2B, CRM oder Online Shop'
     core:
       headline: Wie PULPO WMS deiner Firma hilft
       element1:
@@ -31,15 +31,15 @@ de:
         text: 'Fang schnell an zu sparen. Gute vorbereitete Kunden können bereits nach 2 Wochen anfangen mit Pulpo ihr Lager zu optimieren.'
     header:
       headline: PULPO WMS
-      text1: 'PULPO Warehouse Management System bietet volle Kontrolle und Optimierung deiner Lagerprozesse. Automatisiere ehemals manuelle Prozesse, eliminiere Fehler, verbinde all deine Systeme und stelle einen bestmögliche Effizienz sicher um Geld und Zeit zu sparen.'
+      text1:  'PULPO Warehouse Management System bietet volle Kontrolle und Optimierung deiner Lagerprozesse. Automatisiere ehemals manuelle Prozesse, eliminiere Fehler, verbinde all deine Systeme und stelle eine bestmögliche Effizienz sicher um Geld und Zeit zu sparen.'
     things:
       headline: PULPO WMS Haupt-Funktionen
-      item1: '**WARENEINGANG**: Dein Mitarbeiter sieht auf seiner App welche Produkte zu welcher Zeit und von wem geliefert werden. Somit kann beim Eintreffen der Ware schnell die Qualität und Anzahl kontrolliert, und die Produkte empfangen, oder wieder zurück gesandt werden.'
+      item1: '**WARENEINGANG**: Dein Mitarbeiter sieht auf seiner App welche Produkte zu welcher Zeit und von wem geliefert werden. Somit kann beim Eintreffen der Ware schnell die Qualität und Quantität kontrolliert und die Produkte empfangen, oder wieder zurück gesandt werden.'
       item2: '**EINLAGERUNG**: Basierend auf deinen Regeln erzeugt Pulo WMS automatisch Lagerbewegungen um sicherzustellen, dass die Produkte in der für sie optimalen Position gelagert werden. Anzahl der Regeln sind keine Grenzen gesetzt: Produktrotation, Gewicht, Gefahrenklassen, etc.'
       item3: '**PICKING**: Optimierte Routen, intelligente Verteilung der Aufgaben und einfache Bedienung der Android App stellen sicher, dass die Lagermitarbeiter mit höchstmöglicher Effizienz arbeiten können.'
       item4: '**PACKEN**: Pulpo WMS Pack-Prozess stellt sicher, dass 1) die richtigen Produkte an den richtigen Kunden gesandt und 2) alle Pakete mit den korrekten Etiketten versehen werden.'
       item5: '**VERSAND**: Pulpo WMS stellt sicher, dass die Pakete in den für den Transport optimalen Positionen zur Verfügunge gestellt werden. Pulpo WMS kann natürlich auch das Transport Management System (TMS) mit entsprechender Information versorgen.'
-      item6: '**NACHSCHUB**: Basierend auf leicht zu definierenden Regeln kann Pulpo WMS sicherstellen, dass weitere Lager, Geschäfte oder auch spezielle Positionen im Lager stehts die benötigte Menge an Produkten zur Verfügung stehen.'
+      item6: '**NACHSCHUB**: Basierend auf leicht zu definierenden Regeln kann Pulpo WMS sicherstellen, dass weiteren Lagern, Geschäften oder auch speziellen Positionen im Lager stehts die benötigte Menge an Produkten zur Verfügung stehen.'
     whitepaper:
       button: Kontakt
       headline1: Pulpo WMS hilft deiner Firma schneller und effizienter
@@ -53,7 +53,7 @@ de:
       Opt4: 'Barcodes und QR Codes'
       Opt5: 'Retouren-Management'
       Opt6: 'Inventur Management'
-      Opt7: 'Optimiesierung basierend auf Rotation'
+      Opt7: 'Optimierung basierend auf Rotation'
       Opt8: 'Seriennummern, Produktionschargen & Ablaufdatum'
       Opt9: 'Qualitätskontrolle'
       Opt_1: 'Nachschub (intern und extern)'
@@ -64,7 +64,7 @@ de:
       Opt_6: 'Etikettendruck'
       Opt_7: '3PL Funktionalität'
       Opt_8: 'Versandverwaltung'
-      Opt_9: 'Kontrolle von Effizienz und Effektivitt'
+      Opt_9: 'Kontrolle von Effizienz und Effektivität'
     documentation:
       headline: HIER GEHTS ZUM DOWNLOAD DER BROCHURE
       button1: PULPO WMS BROCHURE
@@ -75,7 +75,7 @@ de:
       text2: |
         2) Blitzschnelle Implementierung dank wohldefinierter API
       text3: |
-        3) Administrierung ohne eine Zeile Code zu schreiben
+        3) Administration ohne eine Zeile Code zu schreiben
       text4: |
         4) Das WMS mit einem der schnellsten Return-of-Invests
     process:
@@ -110,7 +110,7 @@ de:
     steps:
       step1: 'Qualitäts- und Quantitätskontrolle beim Empfang'
       step2: 'Pulpo WMS empfiehlt optimale Positionen für die Lagerung'
-      step3: 'Optimisierte routen, Batch und Split-Picking'
+      step3: 'Optimierte Routen, Batch und Split-Picking'
       step4: 'Kontrolle im Packen, Neu-Verpackung und Etikettierung'
       step5: 'Quantitäts- und Qualitätskontrolle vor dem Versand'
   footer:
