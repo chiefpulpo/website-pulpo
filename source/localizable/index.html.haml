@@ -1,1 +1,67 @@
-<script>if(window.location.pathname=='/'){ location.href="https://info.pulpowms.com/pulpo-wms-de";} else if(window.location.pathname=='/en/') location.href="https://info.pulpowms.com/pulpo-wms-en"; else location.href="https://info.pulpowms.com/pulpo-wms-es";</script>
+.bRow
+  .bRow-content
+    .bList.asCentered
+      .bList-item
+        %h1.aHeadline.asLeft.asLarger= t('index.header.headline')
+        .aText
+          .aText-paragraph= t('index.header.text1')
+      .bList-item
+        = image_tag('images/pulpo/jefelogistica1800.png', height: '300', width: '350')
+
+.bRow.asSecondary.withLargePadding
+  .bRow-content
+    %h2.aHeadline= t('index.core.headline')
+    .bList.asCentered
+      .bList-item
+        .aTextWithHeadline
+          .aTextWithHeadline-headline= t('index.core.element1.headline')
+          .aTextWithHeadline-text= t('index.core.element1.text')
+      .bList-item
+        .aTextWithHeadline
+          .aTextWithHeadline-headline= t('index.core.element2.headline')
+          .aTextWithHeadline-text= t('index.core.element2.text')
+      .bList-item
+        .aTextWithHeadline
+          .aTextWithHeadline-headline= t('index.core.element3.headline')
+          .aTextWithHeadline-text= t('index.core.element3.text')
+      .bList-item
+        .aTextWithHeadline
+          .aTextWithHeadline-headline= t('index.core.element4.headline')
+          .aTextWithHeadline-text= t('index.core.element4.text')
+
+.bRow.withLargePadding
+  .bRow-content
+    %h2.aHeadline.asLarger.asUppercase= t('index.things.headline')
+    .bList.withThreeItems
+      - 6.times do |i|
+        .bList-item
+          .aIconWithText.asSplit
+            .aIconWithText-icon= image_tag("pulpo/icons/icon#{i+1}.png", height: '150', width: '150') 
+            .aIconWithText-text
+              :markdown
+                #{t("index.things.item#{i+1}")}
+/*.bRow{:id=>'prueba'}*/
+.bRow.asSecondary
+  .bRow-content
+    .aHeadline.asLarger= t('index.whitepaper.headline1')
+    .aHeadline.asLarger= t('index.whitepaper.headline2')
+    <center><button type="button"  class="aButton" onclick="window.location.href='contact'"><i class="glyphicon glyphicon-log-in"></i> CONTACT US</button></center>
+.bRow
+  .bRow-content
+    .aHeadline.asLarger.asCentered= t('index.business_case.pre_headline')
+    .bList-item
+    .bList-item{:id=>'itemsMenu'}
+      %ul
+        %li
+          .aTextWithHeadline-text=t("index.business_case.bussinnes1")
+        %li
+          .aTextWithHeadline-text=t("index.business_case.bussinnes2")
+        %li
+          .aTextWithHeadline-text=t("index.business_case.bussinnes3")
+        %li
+          .aTextWithHeadline-text=t("index.business_case.bussinnes4")
+        %li
+          .aTextWithHeadline-text=t("index.business_case.bussinnes5")
+        %li
+          .aTextWithHeadline-text=t("index.business_case.bussinnes6")
+    .bList-item
